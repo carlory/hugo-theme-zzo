@@ -101,16 +101,16 @@ other = "Please enable Javascript to view the contents"
 other = "TOP POSTS"
 
 [skin-dark]
-other = "dark"
+other = "深色模式"
 
 [skin-light]
-other = "light"
+other = "亮色模式"
 
 [skin-hacker]
 other = "hacker"
 
 [skin-solarized]
-other = "solarized"
+other = "护眼模式"
 
 [skin-kimbie]
 other = "kimbie"
